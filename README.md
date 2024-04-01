@@ -7,11 +7,8 @@
   <a href="https://dingx2-story.tistory.com/134">
     <img src="https://github.com/DingX2/Typescript-Udemy/assets/96682768/0d12e898-f5e9-4b4d-960d-ad7bae9b5fdd" width="300" height="300">
   </a>
-  <a href="https://dingx2-story.tistory.com/134">
-    <img src="https://github.com/DingX2/Typescript-Udemy/assets/96682768/0d12e898-f5e9-4b4d-960d-ad7bae9b5fdd" width="300" height="300">
-  </a>
-  <a href="https://dingx2-story.tistory.com/134">
-    <img src="https://github.com/DingX2/Typescript-Udemy/assets/96682768/0d12e898-f5e9-4b4d-960d-ad7bae9b5fdd" width="300" height="300">
+  <a href="https://dingx2-story.tistory.com/135">
+    <img src="https://github.com/DingX2/Typescript-Udemy/assets/96682768/904d90ea-be7f-41c4-b507-c86b7d0987af" width="300" height="300">
   </a>
   
   <!-- Repeat this pattern for the remaining images -->
