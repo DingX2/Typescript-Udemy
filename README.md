@@ -10,7 +10,10 @@
   <a href="https://dingx2-story.tistory.com/135">
     <img src="https://github.com/DingX2/Typescript-Udemy/assets/96682768/904d90ea-be7f-41c4-b507-c86b7d0987af" width="300" height="300">
   </a>
-  
+    <a href="https://dingx2-story.tistory.com/136">
+    <img src="https://github.com/DingX2/Typescript-Udemy/assets/96682768/7355d44a-6b80-430d-86ee-e8c89e51537a" width="300" height="300">
+  </a>
+
   <!-- Repeat this pattern for the remaining images -->
 </div>
 
